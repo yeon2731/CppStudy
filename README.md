@@ -6,3 +6,9 @@
 g++ helloworld.cpp -o helloworld
 ./helloworld
 ```
+
+or just do:
+
+```
+make <filename>
+```
